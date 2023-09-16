@@ -1,0 +1,89 @@
+Rank,Car #,School,Team,Report Score,Eval. Score,Bonus Points,Penalty Points,Final Score,Message For Team
+1,125,Ecole de Technologie Superieure,Baja ETS,0,130,15,0,145,Finals
+2,19,Johns Hopkins Univ,Blue Jay Racing,0,130,14,0,144,Finals
+3,102,Universidade de Santa Cruz do Sul,Baja de GalpÃ£o - UNISC,0,130,5,0,135,Finals
+4,105,Univ of Michigan - Ann Arbor,Michigan Baja Racing,0,130,0,0,130,Finals
+5,32,Purdue Univ - W Lafayette,Purdue Baja Racing,0,120,0,0,120,
+5,83,California Polytechnic State Univ-SLO,Cal Poly Racing,0,120,0,0,120,
+5,96,Centro Universitario Da FEI,FEI Baja,0,120,0,0,120,
+5,104,Cornell Univ,Cornell Baja Racing,0,120,0,0,120,
+9,23,Univ of Arizona,Baja Wildcat Racing,0,110,0,0,110,
+9,24,Northeastern Univ,Skunkworks,0,110,0,0,110,
+9,73,California State Univ- Chico,Wildcat racing,0,120,0,10,110,DRB 1 day late
+9,119,Georgia Institute of Technology,GT Off-Road,0,110,0,0,110,
+13,17,McMaster Univ,McMaster Baja Racing,0,100,0,0,100,
+13,43,Univ of Nevada - Las Vegas,Rebel Racing,0,100,0,0,100,
+15,22,"D Y Patil College Of Engineering, Akurdi",Team Predators Racing,0,90,0,0,90,
+15,25,College of New Jersey,TCNJ Motorsports,0,90,0,0,90,
+15,56,Rochester Institute of Technology,RIOT RACING,0,90,0,0,90,
+18,40,Univ of Wisconsin - Madison,Badger Racing,0,80,0,0,80,
+18,67,Concordia University,Concordia Baja Racing,0,80,0,0,80,
+18,75,Univ of Illinois - Urbana Champaign,Off-Road Illini Baja SAE,0,80,0,0,80,
+18,87,Univ of Central Florida,Knights Racing,0,80,0,0,80,
+18,107,Univ of Maryland - Baltimore County,UMBC Racing,0,80,0,0,80,
+18,120,Youngstown State Univ,penguin baja racing,0,80,0,0,80,
+24,16,Virginia Tech,VT Baja,0,70,0,0,70,
+24,28,Clarkson University,Golden Knights Racing,0,70,0,0,70,
+24,35,Case Western Reserve Univ,CWRU Motorsports,0,120,0,50,70,DRB 5 days late
+24,89,The Ohio State University,Baja Buckeyes,0,70,0,0,70,
+28,26,California State Univ - Los Angeles,Rugged Eagle Motorsports,0,60,0,0,60,
+28,36,Univ of Iowa,Iowa Baja Racing,0,60,0,0,60,
+28,38,Université Laval,Alerion,0,60,0,0,60,
+28,45,George Washington Univ,GW Baja,0,60,0,0,60,
+28,95,Univ of Missouri - Kansas City,Roo Racing,0,60,0,0,60,
+28,127,Michigan State University,MSU Baja Racing,0,60,0,0,60,
+34,21,Univ of San Diego,Torero Racing,0,60,0,10,50,DRB 1 day late
+34,31,Univ of Maryland - College Park,Terps Racing,0,50,0,0,50,
+34,37,Rowan Univ,Rowan Motorsports,0,50,0,0,50,
+34,39,California State Poly Univ - Pomona,Bronco Racing,0,90,0,40,50,DRB 4 days late
+34,59,Georgia Southern Univ,Eagle Motorsports,0,50,0,0,50,
+34,61,San Diego State Univ,Aztec Baja Racing,0,50,0,0,50,
+34,65,Univ of Wisconsin - Platteville,Pioneer Racing,0,50,0,0,50,
+34,66,Stevens Institute of Technology,Dirty Ducks Racing,0,50,0,0,50,
+34,68,Iowa State Univ,Cyclone Off-Road Racing,0,50,0,0,50,
+34,72,New Jersey Institute of Technology,Highlander racing,0,80,0,30,50,DRB 3 days late
+34,76,Montana State Univ - Bozeman,Bobcat Motorsports,0,50,0,0,50,
+34,93,Univ of Akron,Zips Baja,0,50,0,0,50,
+34,116,Purdue Univ - Northwest,PNW Baja Motorsports,0,50,0,0,50,
+47,14,SUNY - Stony Brook,Stony Brook Motorsports,0,40,0,0,40,
+47,34,McGill Univ,McGill Baja Racing,0,70,0,30,40,DRB 3 days late
+47,44,Manhattan College,Manhattan College Jasper Racing,0,40,0,0,40,
+47,47,Univ of Tennessee -Chattanooga,Racing Mocs,0,40,0,0,40,
+47,64,Univ of Manitoba,Red Lion Racing,0,40,0,0,40,
+47,82,Univ of Puerto Rico-Mayaquez,RUM Racing Baja SAE,0,50,0,10,40,DRB 1 day late
+47,110,Pennsylvania College of Technology,PCT Baja,0,40,0,0,40,
+47,118,West Virginia Univ,Mountaineers,0,40,0,0,40,
+55,15,Univ of Rochester,Yellowjacket Racing,0,50,0,20,30,DRB 2 days late
+55,18,Ohio Northern Univ,Polar Bear Racing,0,50,0,20,30,DRB 2 days late
+55,79,Grove City College,Grove City Racing,0,30,0,0,30,
+55,80,Quinnipiac College,Bobcat Racing,0,30,0,0,30,
+55,86,Kansas State Univ,Wildcat Offroad,0,30,0,0,30,
+55,91,Univ of Nevada - Reno,Wolf Pack Racing,0,30,0,0,30,
+55,115,North Carolina A & T State Univ,Aggie Racing,0,50,0,20,30,DRB 2 days late
+55,121,Tennessee Tech Univ,TnTech Baja,0,40,0,10,30,DRB 1 day late
+55,123,North Carolina State Univ - Raleigh,Pack Motorsports,0,80,0,50,30,DRB 5 days late
+55,126,Univ of Illinois - Chicago,UIC Motorsports,0,40,0,10,30,DRB 1 day late
+65,69,New York University,NYU Tandon Motorsports,0,70,0,50,20,DRB 5 days late
+65,78,Union College,Union College BAJA Racing,0,70,0,50,20,DRB 5 days late
+65,84,Pittsburg State University,Gorilla Racing,0,20,0,0,20,
+68,29,IPN - UPIITA,Ocelot Racing IPN-UPIITA,0,50,0,40,10,DRB 4 days late
+68,30,Queen's Univ,Queen's Baja SAE,0,60,0,50,10,DRB 5 days late
+68,55,Penn State Univ - Altoona,Penn State Altoona Motorsports,0,30,0,20,10,DRB 2 days late
+68,90,Fairfield Univ,Fairfield University Baja,0,20,0,10,10,DRB 1 day late
+72,52,Miami Univ,Redhawk Racing,0,0,0,0,0,no show
+72,63,Binghamton Univ,Binghamton University,0,0,0,0,0,no show
+72,74,Univ of Georgia,UGA Motorsports,0,0,0,0,0,no show
+72,77,Ryerson Univ,Ryerson Baja Racing,0,0,0,0,0,no show
+72,94,SUNY Inst of Tech - Utica,Wildcat Motorsports,0,20,0,20,0,DRB 2 days late
+72,97,Univ Federal do Rio Grande do Norte,Car-Kara Baja SAE,0,0,0,0,0,no show
+72,100,Lehigh Univ,Lehigh Engineers,0,50,0,50,0,DRB 5 days late
+79,41,King Fahd Univ of Petroleum & Minerals,kfupm racing,0,30,0,40,0,DRB 4 days late
+79,42,Wichita State Univ,Shocker Racing,0,30,0,40,0,DRB 4 days late
+79,103,Univ of Missouri,Mizzou Baja Racing,0,40,0,50,0,DRB 5 days late
+82,49,San Jose State University,Spartan Racing,0,30,0,50,0,DRB 5 days late
+82,62,Cleveland State Univ,Vikings Racing,0,30,0,50,0,DRB 5 days late
+82,112,Kettering Univ,Kettering Motorsports,0,30,0,50,0,DRB 5 days late
+85,50,California State Univ - Fresno,Fresno State Bulldog Racing,0,20,0,50,0,DRB 5 days late
+86,106,Univ of Texas - El Paso,Madpete Motorsports,0,0,0,50,0,DRB 5 days late
+86,111,Univ of Wisconsin - Milwaukee,Brew City Baja,0,0,0,50,0,DRB 5 days late
+,33,Univ of Oklahoma,Sooner Off-Road,,,,,0,

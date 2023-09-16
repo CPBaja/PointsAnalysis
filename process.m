@@ -1,0 +1,1 @@
+data = csvread("2023OregonResults\2023 Oregon Results - Overall.csv",1,0)

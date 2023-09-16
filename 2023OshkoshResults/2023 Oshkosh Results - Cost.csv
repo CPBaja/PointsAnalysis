@@ -1,0 +1,82 @@
+Rank,Car #,School,Team,Report Score,Penalty Points,Final Score,Message For Team
+1,59,Univ of Michigan - Ann Arbor,Michigan Baja Racing,18,0,98,
+2,25,Univ of Maryland - College Park,Terps Racing Baja,18,0,97,
+3,60,Rochester Institute of Technology,RIOT RACING,18,0,94,
+4,26,Ecole de Technologie Superieure,Baja ETS,20,0,91,
+5,48,Cornell Univ,Cornell Baja Racing,18,0,90,
+6,70,Univ of Missouri - Kansas City,Roo Racing,16,0,84,
+7,31,Univ of Wisconsin - Madison,Badger Racing,19,0,83,
+8,99,California Polytechnic State Univ-SLO,Cal Poly Racing,18,0,82,
+9,62,Centro Universitario Da FEI,Equipe FEI Baja,19,0,80,
+9,95,Johns Hopkins Univ,Blue Jay Racing,11,0,80,
+11,96,Purdue Univ - W Lafayette,Purdue Baja Racing,16,0,78,
+12,21,Univ of Central Florida,Knights Racing,18,0,75,
+13,16,Case Western Reserve Univ,CWRU Motorsports,19,0,71,
+13,20,Tennessee Tech Univ,TN Tech Baja,12,0,71,
+13,79,Univ of Wisconsin - Platteville,Pioneer Racing,14,0,71,
+16,53,Northeastern Univ,Baja SAE Northeastern,14,0,69,
+17,88,Univ of Southern Indiana,Screaming Eagle Racing,8,0,68,
+18,40,Virginia Military Inst,VMI Baja,16,0,63,
+19,18,Rowan Univ,Rowan Motorsports,14,0,61,
+19,29,McGill Univ,McGill Baja Racing,12,0,61,
+21,52,Milwaukee School of Engrg,MSOE BAJA,14,0,59,
+22,15,Clarkson University,Golden Knights Racing,8,0,57,
+23,41,Central Michigan Univ,Chippewa Performance,8,10,56,Outsource tubing
+24,43,Univ of Illinois - Urbana Champaign,Off-Road Illini Baja SAE,9,10,54,Outsource tubing
+25,36,Univ of Rochester,Yellow Jacket Racing,10,0,53,
+26,44,Michigan Tech Univ,Blizzard Baja Racing,16,0,52,
+27,61,Univ of Calif - Los Angeles,Bruin Racing Baja,17,10,49,Outsource tubing
+27,83,Michigan State University,MSU Baja Racing,11,0,49,
+29,30,Arkansas State Univ,Red Wolf Riders,7,0,47,
+29,76,Youngstown State Univ,Penguin Baja Racing,20,0,47,
+31,85,Ohio Univ,Bobcat Baja,9,0,46,
+32,64,Bucknell Univ,Bucknell Baja,16,0,43,
+33,17,St Clair County Community College,SC4 Baja,12,0,42,
+33,47,Missouri University of Science and Tech,Miner Baja,12,10,42,Late submission
+35,19,McMaster Univ,McMaster Baja Racing,14,10,41,Outsource tubing
+36,58,West Virginia Univ,Mountaineers,12,0,39,
+37,82,Univ of Alabama - Tuscaloosa,Bama Racing,8,0,37,
+38,93,Univ of Calgary,Schulich Off Road,10,10,36,Outsource tubing
+39,49,Union College,Union College BAJA Racing,10,0,35,
+40,87,Univ of Cincinnati,Bearcat Baja,12,0,33,
+41,45,Univ of Pittsburgh - Johnstown,Steel Panther Racing,12,0,32,
+42,46,Iowa State Univ,Cyclone Off-Road Racing,8,10,28,Outsource tubing
+43,63,Georgia Institute of Technology,GT Off-Road,10,0,27,
+43,66,Concordia University,Concordia Baja Racing,7,0,27,
+45,22,Univ of Maryland - Baltimore County,UMBC Racing,15,0,15,Did not pass tech on time
+45,72,Bradley Univ,B Squared,15,0,15,Did not pass tech on time/missed audit
+45,98,Univ of San Diego,Torero Racing,15,0,15,
+45,106,Universidade Federal de Pernambuco,Mangue Baja Tecnoferr,15,0,15,Did not pass tech on time
+49,94,Queen's Univ,Queen's baja SAE,14,0,14,Did not pass tech on time
+49,97,New Jersey Institute of Technology,Highlander racing,14,0,14,Missed audit
+51,75,Lipscomb Univ,Lipscomb Baja,13,0,13,Did not pass tech on time/missed audit
+52,14,Purdue Univ - Northwest,Purdue NW Baja Racing,11,0,11,Did not pass tech on time
+52,32,Louisiana State Univ,Baja Bengals,11,0,11,
+52,56,Pennsylvania College of Technology,PCT Baja,11,0,11,
+52,65,Embry-Riddle Aero Univ - Daytona Beach,ERAU Women’s Baja,11,0,11,Missed Audit/ did not pass tech on time
+52,68,Wright State Univ,Raider Racing,11,0,11,Did not pass tech on time
+52,69,SUNY - Buffalo,UB Motorsports,11,0,11,Did not pass tech on time
+52,80,Oklahoma Christian Univ,OC Baja Racing,11,0,11,Missed audit
+52,104,Univ of Notre Dame,Irish Racing,11,0,11,Did not pass tech on time
+61,50,Universidad Autonoma Estado Mexico,Sara Juana RT,9,0,9,Did not pass tech on time/missed audit
+61,57,Northern Kentucky Univ,Norse Baja,9,0,9,Did not pass tech on time
+61,74,Harding Univ,Bison Baja,9,0,9,Did not pass tech on time
+61,84,Georgia Southern Univ,Eagle Motorsports,9,0,9,Did not pass tech on time
+61,109,Univ of New Hampshire,Wildcats,9,0,9,
+66,111,University of Mount Union,Mount Union,8,0,8,Did not pass tech on time
+67,24,Auburn Univ,Auburn Off Road,7,0,7,Did not pass tech on time/missed audit
+67,28,Cincinnati State Technical Comm College,Cincy Baja,7,0,7,
+67,54,Lamar Univ,Baja-ma Mama’s,7,0,7,Did not pass tech on time
+67,81,Ferris State University,Ferris State Baja Racing Club,7,0,7,Did not pass tech on time/missed audit
+71,37,Cleveland State Univ,Vikings Racing,6,0,6,Did not pass tech on time
+72,38,Lawrence Technological Univ,LTU Baja SAE,12,10,2,Late submission/ did not pass tech on time/missed audit
+72,73,Southern Illinois Univ - Edwardville,Cougar Baja,11,30,2,Late submission/ outsourced frame
+74,27,Western Michigan Univ,Bronco BAJA,10,10,0,Late submission/outsourced frame
+74,51,Pittsburg State University,PSU Gorilla Racing,0,0,0,Incomplete cost report
+74,67,Lehigh Univ,Lehigh Engineers,0,0,0,
+74,108,Missouri State University,Bears Baja,0,0,0,Missed Audit
+74,110,Marquette Univ,Marquette Eagle Racing,0,0,0,Did not pass tech on time
+79,34,North Carolina State Univ - Raleigh,Pack Motorsports,7,20,0,Late submission/outsourced frame
+80,55,Northwestern Univ,MotorCats,8,20,0,Late submission
+81,39,Christian Brothers Univ,Dust Brothers,9,50,0,Late submission/missed audit
+82,77,Univ of Tennessee-Knoxville,UTK Baja,0,50,0,Late submission/ incomplete cost report/ passed tech late

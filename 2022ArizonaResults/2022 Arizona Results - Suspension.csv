@@ -1,0 +1,50 @@
+Rank,Car #,School,Team,Distance Run 1,Time Run 1,Distance Run 2,Time Run 2,Best Time,Best Distance,Score
+1,46,Rochester Institute of Technology,RIOT RACING,529,54.353,529,49.253,49.253,529,70
+2,52,Oregon State Univ,Beaver Racing,421,124.809,276,64.325,0,421,55.71
+3,67,McGill Univ,McGill Baja Racing,321,75.491,,,0,321,42.48
+4,14,New Mexico State Univ,NMSU Motorsports,278,30.522,,,0,278,36.79
+5,41,Ecole de Technologie Superieure,Baja ETS,277,43.493,277,42.14,0,277,36.65
+6,19,Oregon Inst of Tech,OTR,277,63.433,254,79.533,0,277,36.65
+7,36,Univ of Michigan - Ann Arbor,Michigan Baja Racing,277,32.231,254,42.015,0,277,36.65
+8,48,Univ of Nevada - Las Vegas,Rebel Racing,249,37.962,276,40.597,0,276,36.52
+9,31,Johns Hopkins Univ,Blue Jay Racing,180,24.659,274,42.673,0,274,36.26
+10,49,Cleveland State Univ,Vikings Racing,162,17.936,274,41.124,0,274,36.26
+11,53,Cornell Univ,Cornell Univ,244,36.081,259,43.565,0,259,34.27
+12,33,Case Western Reserve Univ,CWRU Motorsports,259,32.464,,,0,259,34.27
+13,64,Youngstown State Univ,penguin baja racing,244,30.453,,,0,244,32.29
+14,84,Oklahoma Christian Univ,OC Baja Racing,177,22.646,243,33.552,0,243,32.16
+15,23,ITESM - Queretaro,Exergia Racing Team,198,20.6,183,30.82,0,198,26.2
+16,45,San Diego State Univ,Aztec Baja Racing,192,23.25,192,32.417,0,192,25.41
+17,20,ITESM - Campus Guadalajara,Mad Rams,191,33.222,,,0,191,25.27
+18,80,Univ of Wisconsin - Madison,Badger Racing,164,31.247,184,27.226,0,184,24.35
+19,51,New Mexico Inst of Mining & Tech,Dirty Miners,183,28.189,,,0,183,24.22
+20,68,Univ of San Diego,Torero Racing,176,25.433,164,27.916,0,176,23.29
+21,21,Universidad De La Salle Bajio,Felinos,165,39.774,163,24.653,0,165,21.83
+22,81,Southern Illinois Univ - Edwardville,Cougar Baja,156,11.435,163,17.19,0,163,21.57
+23,89,New Jersey Institute of Technology,Highlander racing,162,24.882,163,37.755,0,163,21.57
+24,78,Univ of Calif - Los Angeles,Bruin Racing Baja,163,25.733,162,24.57,0,163,21.57
+25,42,Purdue Univ - Northwest,Purdue NW Baja Racing,163,17.311,,,0,163,21.57
+26,38,Univ of Maryland - Baltimore County,UMBC Racing,161,22.639,162,32.765,0,162,21.44
+27,56,Kettering Univ,Kettering BAJA Team,162,25.468,,,0,162,21.44
+28,30,Univ of Arizona,Baja Wildcat Racing,157,18.225,161,20.077,0,161,21.3
+29,73,George Washington Univ,GW Baja,161,0,158,21.178,0,161,21.3
+30,74,Univ of Illinois - Chicago,SAE at UIC,155,24.652,,,0,155,20.51
+,1,Ecole de Technologie Superieure,Engine Tester #001,,,,,,,0
+,2,Rochester Institute of Technology,Engine Tester #002,,,,,,,0
+,3,Univ of Michigan - Ann Arbor,Engine Tester #003,,,,,,,0
+,4,Oklahoma Christian Univ,Engine Tester #004,,,,,,,0
+,6,Oregon State Univ,Engine Tester #006,,,,,,,0
+,17,Universidad La Salle,Aguilas la salle,,,,,,,0
+,18,NUST-School of Mechanical & Mfg Engrg,Team Markhor,,,,,,,0
+,24,Mississippi State Univ,Mud Dawg Motorsports,,,,,,,0
+,25,Instituto Tecnologico de Chihuahua,Panteras Racing,,,,,,,0
+,43,Univ of Missouri,Mizzou Baja SAE Racing,,,,,,,0
+,57,Wichita State Univ,Shocker Racing,,,,,,,0
+,58,Universidad Autonoma De Nuevo Leon,TigreMotors UANL,,,,,,,0
+,59,Southern Utah Univ,SUU BAJA Club,,,,,,,0
+,63,Vellore Institute of Technology Chennai,Team Saksham International,,,,,,,0
+,72,Kansas State Univ,Wildcat Offroad,,,,,,,0
+,77,FIME - UANL,UANL Racing Team,,,,,,,0
+,85,Cetys Universidad,CMB Racing,,,,,,,0
+,87,California State Univ - Los Angeles,Rugged Eagle Motorsports,,,,,,,0
+,199,Baja SAE National Tech,Test Car,,,,,,,0

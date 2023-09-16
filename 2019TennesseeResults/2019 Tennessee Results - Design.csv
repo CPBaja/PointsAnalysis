@@ -1,0 +1,97 @@
+Rank,Car #,School,Team,Report Score,Eval. Score,Bonus Points,Penalty Points,Final Score,Message For Team
+1,7,Univ of Michigan - Ann Arbor,Michigan Baja Racing,0,140,15,0,155,Design Finals
+2,4,Ecole de Technologie Superieure,BAJA ETS,0,140,13,0,153,Design Finals
+3,3,Rochester Institute of Technology,RIOT RACING,0,140,10,0,150,Design Finals
+4,1,Cornell Univ,Cornell Baja,0,140,5,0,145,Design Finals
+4,76,Government College of Engrg Pune,Team Nemesis Racing,0,140,5,0,145,Design Finals
+6,8,Univ of Nebraska - Lincoln,Husker Racing,0,140,0,0,140,Design Finals
+7,9,Univ of Central Florida,Knights Racing,0,130,0,0,130,
+7,49,Oregon State Univ,Beaver Racing,0,130,0,0,130,
+7,53,Univ of Maryland - Baltimore County,UMBC Racing,0,130,0,0,130,
+10,52,Maharashtra Institute of Technology,Team Piranha racing,0,120,0,0,120,
+10,94,Maharaja Agrasen Institute Of Tech,Team Jatayu,0,120,0,0,120,
+10,99,Johns Hopkins Univ,Blue Jay Racing,0,120,0,0,120,
+10,108,Case Western Reserve Univ,CWRU Motorsports,0,120,0,0,120,
+14,2,Univ of Akron,Zips Baja,0,110,0,0,110,
+14,5,San Diego State Univ,Aztec Baja,0,120,0,10,110,Report late
+14,29,Univ of Nevada - Las Vegas,Rebel Racing,0,110,0,0,110,
+14,44,Michigan State Univ,MSU Baja,0,110,0,0,110,
+14,81,North Carolina State Univ - Raleigh,Pack Motorsports,0,110,0,0,110,
+19,6,Clarkson University,Golden Knights Racing,0,100,0,0,100,
+19,42,"D Y Patil College Of Engineering, Akurdi",Team Predators Racing,0,100,0,0,100,
+19,54,Youngstown State Univ,YSU Baja,0,100,0,0,100,
+19,89,California State Univ- Chico,Wildcat racing,0,100,0,0,100,
+19,118,Queen's Univ,Queen's Baja,0,100,0,0,100,
+19,119,Univ of Rochester,Yellowjacket Racing,0,100,0,0,100,
+19,123,Georgia Institute of Technology,GT Off-Road,0,100,0,0,100,
+26,22,Western New England University,Golden Bear Racing,0,90,0,0,90,
+26,24,Northwestern Univ,Northwestern Motorcats,0,100,0,10,90,Report late
+26,32,Cummins College Of Engineering,TZ5,0,90,0,0,90,
+26,46,Harding Univ,Bison Baja,0,90,0,0,90,
+26,86,Univ of Missouri - Kansas City,UMKC Baja Racing,0,90,0,0,90,
+26,96,Univ of Evansville,UE BAJA,0,100,0,10,90,Report late
+26,106,Central Michigan Univ,Chippewa Performance,0,100,0,10,90,Report late
+26,109,Univ of Illinois - Urbana Champaign,Off-Road Illini,0,110,0,20,90,Report late
+34,13,Pennsylvania College of Technology,PCTBaja,0,80,0,0,80,
+34,41,New Jersey Institute of Technology,Highlander Racing,0,80,0,0,80,
+34,58,Univ of Virginia,Virginia Motorsports,0,80,0,0,80,
+34,126,George Washington Univ,GW Baja,0,80,0,0,80,
+38,35,Universidad De La Salle Bajio,felinos 1,0,70,0,0,70,
+38,56,North Carolina A & T State Univ,Aggie Racing,0,70,0,0,70,
+38,71,Iowa State Univ,Cyclone Racing,0,70,0,0,70,
+38,75,Univ of Calif - Los Angeles,Bruin Racing,0,70,0,0,70,
+38,87,Virginia Tech,VT Baja,0,70,0,0,70,
+38,92,Louisiana State Univ,Baja Bengals,0,70,0,0,70,
+38,120,University of Mount Union,Raider Racing,0,70,0,0,70,
+45,17,Purdue Univ - Northwest,PNW Motorsports,0,60,0,0,60,
+45,33,Olin College of Engineering,Olin Baja,0,60,0,0,60,
+45,60,Michigan Tech Univ,Blizzard Baja,0,60,0,0,60,
+45,69,Olivet Nazarene Univ,ONU Racing19,0,60,0,0,60,
+45,107,Miami Univ,Redhawk Racing,0,60,0,0,60,
+50,25,Middle Tennessee State Univ,MTSU motorsports,0,50,0,0,50,
+50,27,Pittsburg State University,Gorilla Racing,0,50,0,0,50,
+50,30,Lipscomb Univ,Lipscomb Motor Sports,0,50,0,0,50,
+50,38,Bucknell Univ,Bucknell Baja,0,50,0,0,50,
+50,50,Lawrence Technological Univ,Blue Devil Motorsports,0,50,0,0,50,
+50,61,New York University,NYU Tandon Motorsports,0,50,0,0,50,
+50,62,Southern Illinois Univ - Edwardville,Cougar Baja,0,50,0,0,50,
+50,64,Univ of Tennessee - Martin,SKYHAWK Racing,0,50,0,0,50,
+50,65,Univ of Wisconsin - Stout,Blue Devil Racing,0,50,0,0,50,
+50,67,Tennessee Tech Univ,TTU Baja,0,50,0,0,50,
+50,100,Univ of Pittsburgh - Johnstown,Steel Panther Racing,0,50,0,0,50,
+50,102,Univ of Wisconsin - Milwaukee,UW MKE Baja,0,50,0,0,50,
+62,11,Cleveland State Univ,Vikings Racing,0,40,0,0,40,
+62,18,Lamar Univ,BB2,0,40,0,0,40,
+62,40,Univ of Tennessee -Chattanooga,UTC Racing Mocs,0,40,0,0,40,
+62,47,Mississippi State Univ,MSState Mud Dawgs,0,40,0,0,40,
+62,51,Univ of West Florida,UWF Argos,0,40,0,0,40,
+62,80,Universidad Autonoma Estado Mexico,Sara juana RT,0,40,0,0,40,
+62,91,Northern Illinois Univ,Niu Baja,0,40,0,0,40,
+62,97,Kansas State Univ - Salina,Baja SAE Salina,0,40,0,0,40,
+62,114,Univ of Missouri,Mizzou Baja Racing,0,40,0,0,40,
+71,16,Universidad Panamericana,Panteras Racing,0,30,0,0,30,
+71,19,Rowan Univ,Rowan Motorsports,0,40,0,10,30,Report late
+71,20,Embry-Riddle Aero Univ - Daytona Beach,Lady Eagles BAJA,0,30,0,0,30,
+71,26,East Carolina Univ,East Carolina,0,30,0,0,30,
+71,31,Millersville Univ of PA,Millersville Baja,0,30,0,0,30,
+71,73,Kansas State Univ,Wildcat Offroad,0,30,0,0,30,
+71,95,Univ of Arkansas - Fayetteville,Full Boar Racing,0,30,0,0,30,
+71,101,Univ of Kansas - Lawrence,JMSBaja,0,40,0,10,30,Report late
+71,115,Univ of Alabama - Birmingham,Blazer Motorsports,0,30,0,0,30,
+71,121,Ferris State University,Ferris State Baja Racing,0,30,0,0,30,
+71,122,St Clair County Community College,SC4 Baja,0,30,0,0,30,
+82,14,Univ of Texas - Rio Grande,RGV Baja Racing,0,30,0,10,20,Report late
+82,77,Missouri State University,MSU Baja,0,20,0,0,20,
+84,36,Wright State Univ,Raider Racers,0,0,0,0,0,
+84,39,Oklahoma Christian Univ,Eagle Heavy 1,0,0,0,0,0,
+84,66,Ohio Northern Univ,Polar Bear Racing,0,0,0,0,0,
+84,74,West Virginia Univ,Mountaineers,0,0,0,0,0,
+84,82,Liberty Univ,Liberty University Baja,0,0,0,0,0,
+84,83,Instituto Tecnologico de Queretaro,Baja SAE ITQ,0,0,0,0,0,
+84,103,Univ of Helwan,BHU,0,0,0,0,0,
+84,116,Univ of Notre Dame,Irish Racing,0,0,0,0,0,
+92,98,Univ of Texas -Tyler,Red Dirt Racing,0,0,0,10,0,Report late
+92,111,Military Technical College,MTC Racing,0,0,0,10,0,Report late
+94,70,AISSMS College of Engineering,RESONANCE RACING,0,0,0,30,0,Report late
+95,21,Arkansas State Univ,Arkansas State Red wolves,0,0,0,50,0,Report late
+95,124,Univ of Louisville,Louisville SAE Baja,0,0,0,50,0,Report late

@@ -1,0 +1,50 @@
+Rank,Car #,School,Team,Report Score,Eval. Score,Bonus Points,Penalty Points,Final Score,Message For Team
+1,41,Ecole de Technologie Superieure,Baja ETS,0,130,15,0,145,Finals
+2,31,Johns Hopkins Univ,Blue Jay Racing,0,130,5,0,135,Finals
+3,36,Univ of Michigan - Ann Arbor,Michigan Baja Racing,0,130,0,0,130,Finals
+4,52,Oregon State Univ,Beaver Racing,0,110,0,0,110,Updated
+4,64,Youngstown State Univ,penguin baja racing,0,110,0,0,110,
+6,46,Rochester Institute of Technology,RIOT RACING,0,100,0,0,100,
+6,53,Cornell Univ,Cornell Univ,0,100,0,0,100,
+8,67,McGill Univ,McGill Baja Racing,0,90,0,0,90,
+8,80,Univ of Wisconsin - Madison,Badger Racing,0,90,0,0,90,
+10,21,Universidad De La Salle Bajio,Felinos,0,103,0,20,83,DRB Late 2 Days
+11,30,Univ of Arizona,Baja Wildcat Racing,0,80,0,0,80,
+11,38,Univ of Maryland - Baltimore County,UMBC Racing,0,100,0,20,80,DRB Late 2 Days
+13,33,Case Western Reserve Univ,CWRU Motorsports,0,70,0,0,70,
+13,48,Univ of Nevada - Las Vegas,Rebel Racing,0,70,0,0,70,
+13,51,New Mexico Inst of Mining & Tech,Dirty Miners,0,70,0,0,70,
+13,78,Univ of Calif - Los Angeles,Bruin Racing Baja,0,70,0,0,70,
+17,20,ITESM - Campus Guadalajara,Mad Rams,0,60,0,0,60,
+17,49,Cleveland State Univ,Vikings Racing,0,60,0,0,60,
+17,89,New Jersey Institute of Technology,Highlander racing,0,60,0,0,60,
+20,45,San Diego State Univ,Aztec Baja Racing,0,50,0,0,50,
+20,73,George Washington Univ,GW Baja,0,50,0,0,50,
+22,19,Oregon Inst of Tech,OTR,0,40,0,0,40,
+22,23,ITESM - Queretaro,Exergia Racing Team,0,40,0,0,40,
+22,68,Univ of San Diego,Torero Racing,0,40,0,0,40,
+22,84,Oklahoma Christian Univ,OC Baja Racing,0,40,0,0,40,
+26,56,Kettering Univ,Kettering BAJA Team,0,30,0,0,30,
+27,24,Mississippi State Univ,Mud Dawg Motorsports,0,20,0,0,20,
+27,74,Univ of Illinois - Chicago,SAE at UIC,0,30,0,10,20,DRB Late 1 Day
+29,14,New Mexico State Univ,NMSU Motorsports,0,60,0,50,10,DRB Late 5 Days
+29,42,Purdue Univ - Northwest,Purdue NW Baja Racing,0,40,0,30,10,DRB Late 3 Days
+31,77,FIME - UANL,UANL Racing Team,0,50,0,50,0,DRB Late 5 Days
+31,85,Cetys Universidad,CMB Racing,0,30,0,30,0,DRB Late 3 Days
+33,87,California State Univ - Los Angeles,Rugged Eagle Motorsports,0,32,0,40,0,DRB Late 4 Days
+34,43,Univ of Missouri,Mizzou Baja SAE Racing,0,20,0,30,0,DRB Late 3 Days
+34,57,Wichita State Univ,Shocker Racing,0,20,0,30,0,DRB Late 3 Days
+34,58,Universidad Autonoma De Nuevo Leon,TigreMotors UANL,0,0,0,10,0,DRB Late 1 Day
+37,25,Instituto Tecnologico de Chihuahua,Panteras Racing,0,20,0,50,0,DRB Late 5 Days
+37,59,Southern Utah Univ,SUU BAJA Club,0,20,0,50,0,DRB Late 5 Days
+37,81,Southern Illinois Univ - Edwardville,Cougar Baja,0,0,0,30,0,DRB Late 3 Days
+40,72,Kansas State Univ,Wildcat Offroad,0,0,0,40,0,DRB Late 4 Days
+41,17,Universidad La Salle,Aguilas la salle,0,0,0,50,0,DRB Late 5 Days
+41,18,NUST-School of Mechanical & Mfg Engrg,Team Markhor,0,0,0,50,0,DRB Late 5 Days
+41,63,Vellore Institute of Technology Chennai,Team Saksham International,0,0,0,50,0,DRB Late 5 Days
+,1,Ecole de Technologie Superieure,Engine Tester #001,,,,,0,
+,2,Rochester Institute of Technology,Engine Tester #002,,,,,0,
+,3,Univ of Michigan - Ann Arbor,Engine Tester #003,,,,,0,
+,4,Oklahoma Christian Univ,Engine Tester #004,,,,,0,
+,6,Oregon State Univ,Engine Tester #006,,,,,0,
+,199,Baja SAE National Tech,Test Car,,,,,0,

@@ -1,0 +1,76 @@
+Rank,Car #,School,Team,Time Run 1,# Minor Penalty Run 1,# Major Penalty Run 1,Total Time Run 1,Time Run 2,# Minor Penalty Run 2,# Major Penalty Run 2,Total Time Run 2,Best Time,Score
+1,92,Ecole de Technologie Superieure,Baja ETS,42.481,0,0,42.481,42.174,0,0,42.174,42.174,70
+2,101,Cornell Univ,Cornell Baja Racing,42.372,1,0,44.372,42.437,0,0,42.437,42.437,69.67
+3,57,Oregon State Univ,Beaver Racing,43.936,0,0,43.936,42.683,0,0,42.683,42.683,69.35
+4,95,Case Western Reserve Univ,CWRU Motorsports,47.14,0,0,47.14,44.232,0,0,44.232,44.232,67.39
+5,93,Université Laval,Alerion,45.897,0,0,45.897,44.526,0,0,44.526,44.526,67.01
+6,105,Univ of Central Florida,Knights Racing,50.159,1,0,52.159,45.125,0,0,45.125,45.125,66.25
+7,90,Univ of Michigan - Ann Arbor,Michigan Baja Racing,46.175,0,0,46.175,149.225,0,0,--DNF--,46.175,64.92
+8,99,Rochester Institute of Technology,RIOT RACING,46.289,1,0,48.289,46.308,0,0,46.308,46.308,64.75
+9,84,Virginia Tech,VT Baja,43.405,2,0,47.405,42.39,0,1,52.39,47.405,63.35
+10,85,The Ohio State University,Baja Buckeyes,48.586,0,0,48.586,48.24,0,0,48.24,48.24,62.29
+11,35,California Polytechnic State Univ-SLO,Cal Poly Racing,65.986,0,0,--DNF--,46.352,1,0,48.352,48.352,62.15
+12,107,Univ of Illinois - Urbana Champaign,Off-Road Illini Baja SAE,51.099,0,0,--DNF--,48.355,0,0,48.355,48.355,62.15
+13,96,North Carolina State Univ - Raleigh,Pack Motorsports,48.9,1,0,50.9,46.517,1,0,48.517,48.517,61.94
+14,100,Northeastern Univ,Baja SAE Northeastern,51.043,1,0,53.043,49.293,0,0,49.293,49.293,60.96
+15,17,South Dakota School of Mines & Tech,Hardrocker Gold,48.891,1,0,50.891,48.048,1,0,50.048,50.048,60
+16,109,McGill Univ,McGill Baja Racing,133.385,0,0,--DNF--,50.181,0,0,50.181,50.181,59.83
+17,74,Northern Arizona Univ,NAU Lumberjack Motorsports Baja,72.315,0,0,--DNF--,49.092,1,0,51.092,51.092,58.67
+18,106,SUNY - Buffalo,UB Motorsports,71.166,0,0,--DNF--,51.33,0,0,51.33,51.33,58.37
+19,98,Youngstown State Univ,Penguin Baja Racing,56.037,1,0,58.037,51.597,0,0,51.597,51.597,58.03
+20,38,Universidad De La Salle Bajio,Felinos,36.553,0,0,--DNF--,52.297,0,0,52.297,52.297,57.14
+21,86,Western University,Western Baja SAE,57.26,1,0,59.26,50.346,2,0,54.346,54.346,54.54
+22,102,Univ of Akron,Zips Baja,126.241,0,0,--DNF--,52.994,1,0,54.994,54.994,53.71
+23,13,Johns Hopkins Univ,Blue Jay Racing,47.311,0,0,--DNF--,51.227,2,0,55.227,55.227,53.42
+24,27,Purdue Univ - W Lafayette,Purdue Baja Racing,47.384,0,1,57.384,51.623,2,0,55.623,55.623,52.91
+25,104,Univ of Calif - Los Angeles,Bruin Racing Baja,50.626,7,0,64.626,53.555,2,0,57.555,57.555,50.46
+26,25,Utah State University,USU Baja,61.382,1,0,63.382,58.793,0,0,58.793,58.793,48.89
+27,103,Tennessee Tech Univ,TN Tech Baja,85.534,0,0,--DNF--,52.462,4,0,60.462,60.462,46.77
+28,88,Clarkson University,Golden Knights Racing,60.235,1,0,62.235,66.921,0,0,--DNF--,62.235,44.52
+29,28,Univ of Manitoba,Red Lion Racing,44.276,0,0,--DNF--,66.407,0,0,66.407,66.407,39.22
+30,48,Queen's Univ,Queen's baja SAE,57.642,5,0,67.642,52.538,7,0,66.538,66.538,39.05
+31,61,Univ of Arizona,Baja Wildcat Racing,67.375,0,0,67.375,56.165,0,0,--DNF--,67.375,37.99
+32,62,Univ of Puerto Rico-Mayaquez,RUM Racing Baja,106.778,2,0,110.778,68.196,0,0,68.196,68.196,36.94
+33,76,South Dakota State Univ,Desert Hare Offroad,75.699,0,0,--DNF--,70.85,1,0,72.85,72.85,31.03
+34,21,Loyola Marymount Univ,Baja Lions Racing,63.179,0,0,--DNF--,65.89,5,0,75.89,75.89,27.17
+35,87,Oregon Inst of Tech,OTR,74.188,1,0,76.188,,,,,76.188,26.79
+36,89,Univ of Missouri - Kansas City,Roo Racing,60.158,10,0,80.158,78.071,5,0,88.071,80.158,21.75
+37,116,Southern Utah Univ,SUU Baja,146.15,0,0,--DNF--,75.079,6,0,87.079,87.079,12.95
+38,64,Seattle Pacific Univ,Falcon Racing,93.276,2,0,97.276,132.383,0,0,--DNF--,97.276,0
+,11,Univ of Calgary,Schulich Off Road,,,,,,,,,,0
+,14,California State Poly Univ - Pomona,Bronco Racing,,,,,,,,,,0
+,15,SUNY - Stony Brook,Stony Brook Motorsports,,,,,,,,,,0
+,16,Univ of San Diego,Torero Racing,,,,,,,,,,0
+,18,Univ of Colorado - Boulder,CU Boulder Baja,,,,,,,,,,0
+,19,Univ of Nevada - Las Vegas,Rebel Racing,,,,,,,,,,0
+,22,Texas A&M Univ,Fightin' Texas Aggie Motorsports,,,,,,,,,,0
+,23,K.J.Somaiya College of Engineering,RedShift Racing India,,,,,,,,,,0
+,24,IPN - UPIITA,Ocelot Racing,,,,,,,,,,0
+,29,New Jersey Institute of Technology,Highlander racing,,,,,,,,,,0
+,30,Univ of Texas - Rio Grande,RGV Baja,,,,,,,,,,0
+,32,San Jose State University,Spartan Racing Baja SAE,,,,,,,,,,0
+,34,Stevens Institute of Technology,Stevens Baja,,,,,,,,,,0
+,36,Univ of Nebraska - Lincoln,Husker Racing,,,,,,,,,,0
+,37,Brigham Young University,BYU Baja,,,,,,,,,,0
+,41,New York University,NYU Tandon Motorsports,,,,,,,,,,0
+,42,Univ of Iowa,Iowa Baja Racing,,,,,,,,,,0
+,43,California State Univ - Fullerton,CSUF Titan Racing,,,,,,,,,,0
+,44,California State Univ - Los Angeles,Rugged Eagle Motorsports,,,,,,,,,,0
+,46,British Columbia Inst of Tech,BCIT BAJA,,,,,,,,,,0
+,49,Old Dominion Univ,Whiskey Throttle Racing,,,,,,,,,,0
+,50,Montana State Univ - Bozeman,Bobcat Motorsports,,,,,,,,,,0
+,51,California State Univ- Chico,Wildcat racing,,,,,,,,,,0
+,52,Cetys Universidad,CMB Racing,,,,,,,,,,0
+,55,Univ of Virginia,Virginia Motorsports,,,,,,,,,,0
+,56,ITESM - Campus Guadalajara,Mad Rams,,,,,,,,,,0
+,58,San Diego State Univ,Aztec Baja Racing,,,,,,,,,,0
+,59,New Mexico Inst of Mining & Tech,Dirty Miners,,,,,,,,,,0
+,60,Manhattan College,Jasper Racing,,,,,,,,,,0
+,68,Montana Tech,Montana Tech BAJA,,,,,,,,,,0
+,70,Univ of Nevada - Reno,Wolf Pack Racing,,,,,,,,,,0
+,71,Univ of Texas - El Paso,Madpete Motorsports,,,,,,,,,,0
+,73,Univ of Calif - Irvine,Anteater Baja Racing,,,,,,,,,,0
+,77,Kansas State Univ,Wildcat Offroad,,,,,,,,,,0
+,94,McMaster Univ,McMaster Baja Racing,,,,,,,,,,0
+,108,Georgia Institute of Technology,GT Off-Road,,,,,,,,,,0
+,112,Univ of Maryland - Baltimore County,UMBC Racing,,,,,,,,,,0

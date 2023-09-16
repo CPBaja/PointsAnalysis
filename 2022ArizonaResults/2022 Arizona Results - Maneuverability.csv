@@ -1,0 +1,50 @@
+Rank,Car #,School,Team,Time Run 1,# Minor Penalty Run 1,Total Time Run 1,Time Run 2,# Minor Penalty Run 2,Total Time Run 2,Best Time,Score
+1,41,Ecole de Technologie Superieure,Baja ETS,71.925,0,71.925,69.999,0,69.999,69.999,70
+2,36,Univ of Michigan - Ann Arbor,Michigan Baja Racing,72.677,1,74.677,71.024,0,71.024,71.024,69.24
+3,33,Case Western Reserve Univ,CWRU Motorsports,74.653,0,74.653,71.587,1,73.587,73.587,67.34
+4,52,Oregon State Univ,Beaver Racing,82.982,2,86.982,74.584,0,74.584,74.584,66.61
+5,46,Rochester Institute of Technology,RIOT RACING,81.557,1,83.557,75.361,0,75.361,75.361,66.03
+6,53,Cornell Univ,Cornell Univ,76,1,78,74.504,1,76.504,76.504,65.19
+7,38,Univ of Maryland - Baltimore County,UMBC Racing,80.49,0,--DNF--,76.895,0,76.895,76.895,64.9
+8,81,Southern Illinois Univ - Edwardville,Cougar Baja,84.145,0,84.145,78.2,0,78.2,78.2,63.93
+9,67,McGill Univ,McGill Baja Racing,76.358,2,80.358,76.076,3,82.076,80.358,62.33
+10,23,ITESM - Queretaro,Exergia Racing Team,100.81,0,100.81,84.391,0,84.391,84.391,59.35
+11,21,Universidad De La Salle Bajio,Felinos,48.31,0,--DNF--,83.184,1,85.184,85.184,58.76
+12,14,New Mexico State Univ,NMSU Motorsports,97.657,0,97.657,85.921,0,85.921,85.921,58.21
+13,20,ITESM - Campus Guadalajara,Mad Rams,94.63,0,94.63,86.238,0,86.238,86.238,57.98
+14,78,Univ of Calif - Los Angeles,Bruin Racing Baja,115.167,0,--DNF--,88.107,0,88.107,88.107,56.6
+15,64,Youngstown State Univ,penguin baja racing,93.338,1,95.338,89.038,0,89.038,89.038,55.91
+16,31,Johns Hopkins Univ,Blue Jay Racing,87.489,2,91.489,86.12,2,90.12,90.12,55.11
+17,80,Univ of Wisconsin - Madison,Badger Racing,94.014,3,100.014,92.39,2,96.39,96.39,50.47
+18,51,New Mexico Inst of Mining & Tech,Dirty Miners,99.903,2,103.903,94.986,3,100.986,100.986,47.06
+19,48,Univ of Nevada - Las Vegas,Rebel Racing,105.533,5,115.533,104.765,2,108.765,108.765,41.31
+20,49,Cleveland State Univ,Vikings Racing,50.198,0,--DNF--,108.251,5,118.251,118.251,34.28
+21,19,Oregon Inst of Tech,OTR,147.891,2,151.891,,,,151.891,9.38
+22,77,FIME - UANL,UANL Racing Team,27.897,0,--DNF--,152.569,6,164.569,164.569,0
+,1,Ecole de Technologie Superieure,Engine Tester #001,,,,,,,,0
+,2,Rochester Institute of Technology,Engine Tester #002,,,,,,,,0
+,3,Univ of Michigan - Ann Arbor,Engine Tester #003,,,,,,,,0
+,4,Oklahoma Christian Univ,Engine Tester #004,,,,,,,,0
+,6,Oregon State Univ,Engine Tester #006,,,,,,,,0
+,17,Universidad La Salle,Aguilas la salle,,,,,,,,0
+,18,NUST-School of Mechanical & Mfg Engrg,Team Markhor,,,,,,,,0
+,24,Mississippi State Univ,Mud Dawg Motorsports,,,,,,,,0
+,25,Instituto Tecnologico de Chihuahua,Panteras Racing,,,,,,,,0
+,30,Univ of Arizona,Baja Wildcat Racing,,,,,,,,0
+,42,Purdue Univ - Northwest,Purdue NW Baja Racing,,,,,,,,0
+,43,Univ of Missouri,Mizzou Baja SAE Racing,,,,,,,,0
+,45,San Diego State Univ,Aztec Baja Racing,,,,,,,,0
+,56,Kettering Univ,Kettering BAJA Team,,,,,,,,0
+,57,Wichita State Univ,Shocker Racing,,,,,,,,0
+,58,Universidad Autonoma De Nuevo Leon,TigreMotors UANL,,,,,,,,0
+,59,Southern Utah Univ,SUU BAJA Club,,,,,,,,0
+,63,Vellore Institute of Technology Chennai,Team Saksham International,,,,,,,,0
+,68,Univ of San Diego,Torero Racing,,,,,,,,0
+,72,Kansas State Univ,Wildcat Offroad,,,,,,,,0
+,73,George Washington Univ,GW Baja,,,,,,,,0
+,74,Univ of Illinois - Chicago,SAE at UIC,,,,,,,,0
+,84,Oklahoma Christian Univ,OC Baja Racing,,,,,,,,0
+,85,Cetys Universidad,CMB Racing,,,,,,,,0
+,87,California State Univ - Los Angeles,Rugged Eagle Motorsports,,,,,,,,0
+,89,New Jersey Institute of Technology,Highlander racing,,,,,,,,0
+,199,Baja SAE National Tech,Test Car,,,,,,,,0
