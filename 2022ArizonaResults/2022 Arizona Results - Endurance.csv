@@ -1,0 +1,50 @@
+Rank,Car #,School,Team,Laps,Points (400),Diff To Leader,Gap To Next
+1,36,Univ of Michigan - Ann Arbor,Michigan Baja Racing,70,400,,
+2,41,Ecole de Technologie Superieure,Baja ETS,69,394.11765,1 Lap,1 Lap
+3,48,Univ of Nevada - Las Vegas,Rebel Racing,69,394.11765,1 Lap,1:16.272
+4,45,San Diego State Univ,Aztec Baja Racing,68,388.23529,2 Laps,1 Lap
+5,53,Cornell Univ,Cornell Univ,67,382.35294,3 Laps,1 Lap
+6,52,Oregon State Univ,Beaver Racing,66,376.47059,4 Laps,1 Lap
+7,46,Rochester Institute of Technology,RIOT RACING,65,370.58824,5 Laps,1 Lap
+8,33,Case Western Reserve Univ,CWRU Motorsports,65,370.58824,5 Laps,23.741
+9,23,ITESM - Queretaro,Exergia Racing Team,51,288.23529,19 Laps,14 Laps
+10,20,ITESM - Campus Guadalajara,Mad Rams,50,282.35294,20 Laps,1 Lap
+11,31,Johns Hopkins Univ,Blue Jay Racing,44,247.05882,26 Laps,6 Laps
+12,68,Univ of San Diego,Torero Racing,42,235.29412,28 Laps,2 Laps
+13,21,Universidad De La Salle Bajio,Felinos,41,229.41177,29 Laps,1 Lap
+14,64,Youngstown State Univ,penguin baja racing,38,211.76471,32 Laps,3 Laps
+15,84,Oklahoma Christian Univ,OC Baja Racing,37,205.88235,33 Laps,1 Lap
+16,67,McGill Univ,McGill Baja Racing,36,200,34 Laps,1 Lap
+17,38,Univ of Maryland - Baltimore County,UMBC Racing,31,170.58824,39 Laps,5 Laps
+18,43,Univ of Missouri,Mizzou Baja SAE Racing,31,170.58824,39 Laps,43:32.074
+19,14,New Mexico State Univ,NMSU Motorsports,31,170.58824,39 Laps,2:27.949
+20,42,Purdue Univ - Northwest,Purdue NW Baja Racing,28,152.94118,42 Laps,3 Laps
+21,78,Univ of Calif - Los Angeles,Bruin Racing Baja,28,152.94118,42 Laps,1:00:46
+22,51,New Mexico Inst of Mining & Tech,Dirty Miners,25,135.29412,45 Laps,3 Laps
+23,80,Univ of Wisconsin - Madison,Badger Racing,23,123.52941,47 Laps,2 Laps
+24,74,Univ of Illinois - Chicago,SAE at UIC,23,123.52941,47 Laps,50:24.370
+25,89,New Jersey Institute of Technology,Highlander racing,22,117.64706,48 Laps,1 Lap
+26,30,Univ of Arizona,Baja Wildcat Racing,18,94.11765,52 Laps,4 Laps
+27,77,FIME - UANL,UANL Racing Team,16,82.35294,54 Laps,2 Laps
+28,19,Oregon Inst of Tech,OTR,13,64.70588,57 Laps,3 Laps
+29,73,George Washington Univ,GW Baja,10,47.05882,60 Laps,3 Laps
+30,56,Kettering Univ,Kettering BAJA Team,10,47.05882,60 Laps,1:01:12
+31,59,Southern Utah Univ,SUU BAJA Club,9,41.17647,61 Laps,1 Lap
+32,49,Cleveland State Univ,Vikings Racing,7,29.41177,63 Laps,2 Laps
+33,81,Southern Illinois Univ - Edwardville,Cougar Baja,4,11.76471,66 Laps,3 Laps
+34,25,Instituto Tecnologico de Chihuahua,Panteras Racing,2,0,68 Laps,2 Laps
+35,4,Oklahoma Christian Univ,Engine Tester #004,0,0,70 Laps,2 Laps
+36,1,Ecole de Technologie Superieure,Engine Tester #001,0,0,,
+37,2,Rochester Institute of Technology,Engine Tester #002,0,0,,
+38,3,Univ of Michigan - Ann Arbor,Engine Tester #003,0,0,,
+39,6,Oregon State Univ,Engine Tester #006,0,0,,
+41,18,NUST-School of Mechanical & Mfg Engrg,Team Markhor,0,0,,
+42,24,Mississippi State Univ,Mud Dawg Motorsports,0,0,,
+43,57,Wichita State Univ,Shocker Racing,0,0,,
+44,58,Universidad Autonoma De Nuevo Leon,TigreMotors UANL,0,0,,
+45,63,Vellore Institute of Technology Chennai,Team Saksham International,0,0,,
+46,72,Kansas State Univ,Wildcat Offroad,0,0,,
+47,85,Cetys Universidad,CMB Racing,0,0,,
+48,87,California State Univ - Los Angeles,Rugged Eagle Motorsports,0,0,,
+49,199,Baja SAE National Tech,Test Car,0,0,,
+50,17,Universidad La Salle,Aguilas la salle,0,0,,

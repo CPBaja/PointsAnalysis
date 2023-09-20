@@ -21,9 +21,21 @@ OverallKeys = {
     'Adjustments':13
 }
 
-data = pd.read_csv('2023OregonResults/2023 Oregon Results - Overall.csv')
-df = pd.DataFrame(data, columns = ['Rank', 'School', 'Overall (1000)'])
-print(df.get('California Polytechnic State Univ-SLO'))
+PointTotals = {
+    'Overall': 1000,
+    'Dynamic': 300,
+    'Static': 300,
+    'Cost': 100,
+    'Design': 150,
+    'Sales': 50,
+    'Acceleration': 75,
+    'Maneuverability': 75,
+    'Sled Pull': 75,
+    'Hill Climb': 75,
+    'Suspension': 75,
+    'Rock Crawl': 75,
+    'Endurance': 400
+}
 
 
 Oregon2023OverallData = np.loadtxt('2023OregonResults/2023 Oregon Results - Overall.csv', delimiter=',', skiprows=1, usecols=[0,1,4,5,6,7,8,9,10,11,12,13,14,15],encoding='utf-8')
@@ -54,7 +66,7 @@ for i in range(3):
         accelScore = OverallData[j][i,OverallKeys['Accel']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgAccel += accelScore
-        avgPAccel += accelScore / overallScore
+        avgPAccel += accelScore / PointTotals['Acceleration']
 
 
 avgAccel = avgAccel / 24
@@ -72,7 +84,7 @@ for i in range(3):
         enduranceScore = OverallData[j][i,OverallKeys['Endurance']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgEndurance += enduranceScore
-        avgPEndurance += enduranceScore / overallScore
+        avgPEndurance += enduranceScore / PointTotals['Endurance']
 
 
 avgEndurance = avgEndurance / 24
@@ -87,7 +99,7 @@ for i in range(3):
         designScore = OverallData[j][i,OverallKeys['Design']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgDesign += designScore
-        avgPDesign += designScore / overallScore
+        avgPDesign += designScore / PointTotals['Design']
 
 
 avgDesign = avgDesign / 24
@@ -102,7 +114,7 @@ for i in range(3):
         maneuvScore = OverallData[j][i,OverallKeys['Maneuv']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgManeuv += maneuvScore
-        avgPManeuv += maneuvScore / overallScore
+        avgPManeuv += maneuvScore / PointTotals['Maneuverability']
 
 
 avgManeuv = avgManeuv / 24
@@ -117,7 +129,7 @@ for i in range(3):
         costScore = OverallData[j][i,OverallKeys['Cost']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgCost += costScore
-        avgPCost += costScore / overallScore
+        avgPCost += costScore / PointTotals['Cost']
 
 
 avgCost = avgCost / 24
@@ -132,7 +144,7 @@ for i in range(3):
         salesScore = OverallData[j][i,OverallKeys['Sales']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgSales += salesScore
-        avgPSales += salesScore / overallScore
+        avgPSales += salesScore / PointTotals['Sales']
 
 
 avgSales = avgSales / 24
@@ -147,7 +159,7 @@ for i in range(3):
         susScore = OverallData[j][i,OverallKeys['Sus']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgSus += susScore
-        avgPSus += susScore / overallScore
+        avgPSus += susScore / PointTotals['Suspension']
 
 
 avgSus = avgSus / (3 * len(SuspensionData))
@@ -162,11 +174,26 @@ for i in range(3):
         hillScore = OverallData[j][i,OverallKeys['Hill']]
         overallScore = OverallData[j][i,OverallKeys['Overall']]
         avgHill += hillScore
-        avgPHill += hillScore / overallScore
+        avgPHill += hillScore / PointTotals['Hill Climb']
 
 
 avgHill = avgHill / (3 * len(HillClimbData))
 avgPHill = (avgPHill / (3 * len(HillClimbData))) * 100
+
+avgOverall = 0
+avgPOverall = 0
+
+for i in range(3):
+    for j in range(len(OverallData)):
+    
+        overallScore = OverallData[j][i,OverallKeys['Overall']]
+        overallScore = OverallData[j][i,OverallKeys['Overall']]
+        avgOverall += overallScore
+        avgPOverall += overallScore / PointTotals['Overall']
+
+
+avgOverall = avgOverall / (3 * len(OverallData))
+avgPOverall = (avgPOverall / (3 * len(OverallData))) * 100
 
 
 fig1, ax1 = plt.subplots(figsize=(7.5,3.5))
@@ -218,6 +245,11 @@ print("Average Hill Climb Score of Top 3: " + str(avgHill))
 print("Average percentage of score from Hill Climb for top 3: " + str(avgPHill) + "%")
 print("")
 
+print("Overall Information")
+print("Average Overall Score of Top 3: " + str(avgOverall))
+print("Average percentage of score from Overall for top 3: " + str(avgPOverall) + "%")
+print("")
 
-#plt.legend()
-#plt.show()
+
+plt.legend()
+plt.show()

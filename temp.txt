@@ -1,0 +1,1 @@
+AccelvsEndurance = [dfOregon2023AccelvsEndurance, dfOshkosh2023AccelvsEndurance, dfTennessee2022AccelvsEndurance, dfRochester2022AccelvsEndurance, dfArizona2022AccelvsEndurance, dfTennessee2019AccelvsEndurance, dfRochester2019AccelvsEndurance, dfCalifornia2019AccelvsEndurance]

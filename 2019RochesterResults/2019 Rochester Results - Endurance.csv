@@ -1,0 +1,97 @@
+Rank,Car #,School,Team,Laps,Points (400),Diff To Leader,Gap To Next
+1,2,Univ of Michigan - Ann Arbor,Michigan Baja Racing,54,400,,
+2,5,Ecole de Technologie Superieure,BAJA ETS,52,384.31373,2 Laps,2 Laps
+3,78,San Diego State Univ,Aztec Baja,51,376.47059,3 Laps,1 Lap
+4,105,Université Laval,Alérion,51,376.47059,3 Laps,5:25.634
+5,27,Univ of Calgary,Schulich Off-Road,49,360.78431,5 Laps,2 Laps
+6,163,Escola de Engenharia de Sao Carlos,EESC USP BAJA,48,352.94118,6 Laps,1 Lap
+7,97,Tennessee Tech Univ,TTU Baja,47,345.09804,7 Laps,1 Lap
+8,16,Pennsylvania College of Technology,PCTBaja,46,337.2549,8 Laps,1 Lap
+9,168,Universidade Federal Rural do Semiárido,Cactus Baja SAE,45,329.41177,9 Laps,1 Lap
+10,58,Georgia Southern Univ,Eagle Motorsports,44,321.56863,10 Laps,1 Lap
+11,3,Cornell Univ,Cornell Baja,44,321.56863,10 Laps,2:09.744
+12,69,Univ of Wisconsin - Platteville,Pioneer Racing,44,321.56863,10 Laps,1:29.803
+13,6,Univ of Akron,Zips Baja,43,313.72549,11 Laps,1 Lap
+14,80,Ohio Northern Univ,Polar Bear Racing,43,313.72549,11 Laps,2:05.347
+15,88,Case Western Reserve Univ,CWRU Motorsports,42,305.88235,12 Laps,1 Lap
+16,34,Youngstown State Univ,YSU Baja,41,298.03922,13 Laps,1 Lap
+17,75,Universidad La Salle,Águilas,38,274.5098,16 Laps,3 Laps
+18,15,Instituto Tecnologico de Toluca,Escuderia Halcon,38,274.5098,16 Laps,40.067
+19,81,Univ of Manitoba,University of Manitoba,38,274.5098,16 Laps,1:17.007
+20,60,Marquette Univ,Eagle Racing,37,266.66667,17 Laps,1 Lap
+21,93,Univ of Nevada - Las Vegas,Rebel Racing,36,258.82353,18 Laps,1 Lap
+22,169,Escola Politécnica da USP,Poli-USP Baja,36,258.82353,18 Laps,16.529
+23,9,Univ of Maryland - Baltimore County,UMBC Racing,36,258.82353,18 Laps,29.199
+24,8,Univ of Nebraska - Lincoln,Husker Racing,35,250.98039,19 Laps,1 Lap
+25,87,California Polytechnic State Univ-SLO,Cal Poly Racing,34,243.13726,20 Laps,1 Lap
+26,82,Univ of Illinois - Urbana Champaign,Off-Road Illini,34,243.13726,20 Laps,1:22.964
+27,17,RV College of Engineering,Team Helios Racing,33,235.29412,21 Laps,1 Lap
+28,36,Old Dominion Univ,Whiskey Throttle Racing,33,235.29412,21 Laps,1:59.363
+29,1,Rochester Institute of Technology,RIOT RACING,32,227.45098,22 Laps,1 Lap
+30,70,Michigan State Univ,MSU Baja,32,227.45098,22 Laps,1:58.072
+31,31,Dr. D.Y. Patil Institute of Technology,TEAM DURGAYANS,31,219.60784,23 Laps,1 Lap
+32,111,Arizona State Univ Polytechnic,Sun Devil Racing,31,219.60784,23 Laps,11:11.031
+33,50,California State Univ - Los Angeles,Rugged Eagle Motorsports,31,219.60784,23 Laps,19:47.181
+34,33,Univ of British Columbia,UBC Baja,31,219.60784,23 Laps,9:49.107
+35,24,Lehigh Univ,Lehigh Engineers,30,211.76471,24 Laps,1 Lap
+36,72,Univ of Wisconsin - Milwaukee,UW MKE Baja,30,211.76471,24 Laps,49:00.453
+37,14,SUNY - Stony Brook,Stony Brook Motorsports,28,196.07843,26 Laps,2 Laps
+38,52,New Jersey Institute of Technology,Highlander Racing,27,188.23529,27 Laps,1 Lap
+39,83,Univ of San Diego,Torero Racing,27,188.23529,27 Laps,6:52.271
+40,65,Penn State Univ - Altoona,Penn State Altoona,27,188.23529,27 Laps,4:57.384
+41,25,McGill Univ,McGill Baja Racing,27,188.23529,27 Laps,1:18.480
+42,44,Queen's Univ,Queen's Baja,26,180.39216,28 Laps,1 Lap
+43,123,Michigan Tech Univ,Blizzard Baja,26,180.39216,28 Laps,4:50.030
+44,96,University of Mount Union,Raider Racing,25,172.54902,29 Laps,1 Lap
+45,22,Pimpri Chinchwad College of Engineering,Team Red Baron,24,164.70588,30 Laps,1 Lap
+46,85,Univ of Central Florida,Knights Racing,24,164.70588,30 Laps,22:20.631
+47,45,Kansas State Univ,Wildcat Offroad,22,149.01961,32 Laps,2 Laps
+48,18,City College of New York,CCNY,22,149.01961,32 Laps,3:42.632
+49,7,Northeastern Univ,Skunkworks,21,141.17647,33 Laps,1 Lap
+50,55,Universite Du Quebec at Rimouski,Nordic Wolf,20,133.33333,34 Laps,1 Lap
+51,76,Johns Hopkins Univ,Blue Jay Racing,20,133.33333,34 Laps,12:28.997
+52,42,Virginia Tech,VT Baja,20,133.33333,34 Laps,5:46.235
+53,121,Clarkson University,Golden Knights Racing,19,125.4902,35 Laps,1 Lap
+54,64,Univ of Nevada - Reno,Wolf Pack Racing,19,125.4902,35 Laps,13:38.545
+55,120,Alfred Univ,Saxon Racing,19,125.4902,35 Laps,7:27.190
+56,66,North Carolina State Univ - Raleigh,Pack Motorsports,18,117.64706,36 Laps,1 Lap
+57,53,Univ of Puerto Rico-Mayaquez,Rum Racing Baja,17,109.80392,37 Laps,1 Lap
+58,68,Ryerson Univ,Ryerson Baja SAE,17,109.80392,,
+59,35,Buffalo State College,Buffalo State Motorsports,16,101.96078,,
+60,115,Northern Kentucky Univ,Norse Baja,16,101.96078,9:07.805,9:07.805
+61,91,Univ of Missouri - Kansas City,UMKC Baja Racing,16,101.96078,18:50.797,9:42.992
+62,61,Cleveland State Univ,Vikings Racing,16,101.96078,18:59.238,8.441
+63,113,Western New England University,Golden Bear Racing,15,94.11765,1 Lap,1 Lap
+64,77,Wentworth Inst of Tech,Wentworth Institute of Technology,15,94.11765,,
+65,26,Iowa State Univ,Cyclone Racing,14,86.27451,,
+66,119,Olin College of Engineering,Olin Baja,13,78.43137,1 Lap,1 Lap
+67,92,Union College,Union Baja Racing,13,78.43137,1 Lap,2:21.368
+68,48,Grove City College,Grove City Racing,12,70.58824,2 Laps,1 Lap
+69,74,Univ of Waterloo,UW Baja SAE,11,62.7451,3 Laps,1 Lap
+70,67,The Ohio State University,Baja Buckeyes,11,62.7451,3 Laps,2:55:00
+71,86,Memorial Univ of Newfoundland,Memorial Baja,10,54.90196,4 Laps,1 Lap
+72,29,New York University,NYU Tandon Motorsports,10,54.90196,4 Laps,23:54.356
+73,79,York College of Pennsylvania,Baja Blast,10,54.90196,4 Laps,50.729
+74,89,Univ of Maryland - College Park,Terps Racing Baja,9,47.05882,5 Laps,1 Lap
+75,47,Stevens Institute of Technology,Dirty Ducks Racing,8,39.21569,6 Laps,1 Lap
+76,84,McMaster Univ,McMaster Baja Racing,8,39.21569,6 Laps,1:58:46
+77,49,Purdue Univ - Northwest,PNW Motorsports,7,31.37255,7 Laps,1 Lap
+78,38,Purdue Univ - W Lafayette,Purdue Baja Racing,7,31.37255,,
+79,41,Univ of Michigan - Flint,UM-Flint Baja,5,15.68628,,
+80,110,Univ of Illinois - Chicago,UIC Motorsports,5,15.68628,2:27:45,2:27:45
+81,90,University of Prince Edward Island,Not Bad Racing,4,7.84314,1 Lap,1 Lap
+82,114,SUNY Inst of Tech - Utica,Wildcat Motorsports,4,7.84314,1 Lap,20:55.151
+83,62,Univ of Missouri,Mizzou Baja Racing,3,0,2 Laps,1 Lap
+84,106,Concordia University,Concordia Baja Racing,3,0,2 Laps,1:47:11
+85,19,K.J.Somaiya College of Engineering,RedShift Racing India,0,0,,
+86,21,George Mason Univ,Mason Baja,0,0,,
+87,23,College of New Jersey,TCNJ MotorLions,0,0,,
+88,30,Vellore Institute of Technology,KI Racing,0,0,,
+89,32,Bradley Univ,BU,0,0,,
+90,40,Government College of Engg Aurangabad,Team Aryans,0,0,,
+91,54,British Columbia Inst of Tech,BCIT Racing,0,0,,
+92,71,Universidad Simon Bolivar,Team Baja SAE USB,0,0,,
+93,103,Syracuse Univ,Cuse Baja,0,0,,
+94,104,Univ of Tennessee -Chattanooga,UTC Racing Mocs,0,0,,
+95,108,Universidad Nacional Autónoma de México,Puma Off-Road Team,0,0,,
+96,117,Millersville Univ of PA,Millersville Baja,0,0,,
