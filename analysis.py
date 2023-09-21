@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+width = 0.2
+
 Oregon2023OverallData = pd.read_csv('2023OregonResults/2023 Oregon Results - Overall.csv')
 Oregon2023AccelData = pd.read_csv('2023OregonResults/2023 Oregon Results - Acceleration.csv')
 Oregon2023EnduranceData = pd.read_csv('2023OregonResults/2023 Oregon Results - Endurance.csv')
@@ -188,12 +190,38 @@ correlations = {
 
 }
 
+correlationsOreogn = {
+	'Endurance': 0,
+	'Acceleration': 0,
+	'Maneuverability': 0,
+	'Suspension': 0,
+	'Hill Climb': 0,
+	'Design': 0,
+	'Cost': 0,
+	'Sales': 0
+
+}
+
+correlationsOshkosh = {
+	'Endurance': 0,
+	'Acceleration': 0,
+	'Maneuverability': 0,
+	'Suspension': 0,
+	'Hill Climb': 0,
+	'Design': 0,
+	'Cost': 0,
+	'Sales': 0
+
+}
+
 corr = 0
 for i in range(len(EndurancevsOverall)):
 	corr += EndurancevsOverall[i]['Rank_end'].corr(EndurancevsOverall[i]['Rank_ove'])
 corr = corr / len(EndurancevsOverall)
 
 correlations['Endurance'] = corr
+correlationsOreogn['Endurance'] = dfOregon2023EndurancevsOverall['Rank_end'].corr(dfOregon2023EndurancevsOverall['Rank_ove'])
+correlationsOshkosh['Endurance'] = dfOshkosh2023EndurancevsOverall['Rank_end'].corr(dfOshkosh2023EndurancevsOverall['Rank_ove'])
 
 print("Correlation Endurance vs Overall")
 print(corr)
@@ -205,6 +233,8 @@ for i in range(len(AccelvsOverall)):
 corr = corr / len(AccelvsOverall)
 
 correlations['Acceleration'] = corr
+correlationsOreogn['Acceleration'] = dfOregon2023AccelvsOverall['Rank_acc'].corr(dfOregon2023AccelvsOverall['Rank_ove'])
+correlationsOshkosh['Acceleration'] = dfOshkosh2023AccelvsOverall['Rank_acc'].corr(dfOshkosh2023AccelvsOverall['Rank_ove'])
 
 print("Correlation Accel vs Overall")
 print(corr)
@@ -214,6 +244,7 @@ corr = 0
 for i in range(len(AccelvsEndurance)):
 	corr += AccelvsEndurance[i]['Rank_acc'].corr(AccelvsEndurance[i]['Rank_end'])
 corr = corr / len(AccelvsEndurance)
+
 
 print("Correlation Accel vs Endurance")
 print(corr)
@@ -225,6 +256,8 @@ for i in range(len(ManeuvvsOverall)):
 corr = corr / len(ManeuvvsOverall)
 
 correlations['Maneuverability'] = corr
+correlationsOreogn['Maneuverability'] = dfOregon2023ManeuvvsOverall['Rank_man'].corr(dfOregon2023ManeuvvsOverall['Rank_ove'])
+correlationsOshkosh['Maneuverability'] = dfOshkosh2023ManeuvvsOverall['Rank_man'].corr(dfOshkosh2023ManeuvvsOverall['Rank_ove'])
 
 print("Correlation Maneuv vs Endurance")
 print(corr)
@@ -236,6 +269,7 @@ for i in range(len(SuspensionvsOverall)):
 corr = corr / len(SuspensionvsOverall)
 
 correlations['Suspension'] = corr
+correlationsOshkosh['Suspension'] = dfOshkosh2023SuspensionvsOverall['Rank_sus'].corr(dfOshkosh2023SuspensionvsOverall['Rank_ove'])
 
 print("Correlation Suspension vs Overall")
 print(corr)
@@ -247,6 +281,7 @@ for i in range(len(HillvsOverall)):
 corr = corr / len(HillvsOverall)
 
 correlations['Hill Climb'] = corr
+correlationsOreogn['Hill Climb'] = dfOregon2023HillvsOverall['Rank_hil'].corr(dfOregon2023HillvsOverall['Rank_ove'])
 
 print("Correlation Hill vs Overall")
 print(corr)
@@ -258,6 +293,8 @@ for i in range(len(DesignvsOverall)):
 corr = corr / len(DesignvsOverall)
 
 correlations['Design'] = corr
+correlationsOreogn['Design'] = dfOregon2023DesignvsOverall['Rank_des'].corr(dfOregon2023DesignvsOverall['Rank_ove'])
+correlationsOshkosh['Design'] = dfOshkosh2023DesignvsOverall['Rank_des'].corr(dfOshkosh2023DesignvsOverall['Rank_ove'])
 
 print("Correlation Design vs Overall")
 print(corr)
@@ -269,6 +306,8 @@ for i in range(len(CostvsOverall)):
 corr = corr / len(CostvsOverall)
 
 correlations['Cost'] = corr
+correlationsOreogn['Cost'] = dfOregon2023CostvsOverall['Rank_cos'].corr(dfOregon2023CostvsOverall['Rank_ove'])
+correlationsOshkosh['Cost'] = dfOshkosh2023CostvsOverall['Rank_cos'].corr(dfOshkosh2023CostvsOverall['Rank_ove'])
 
 print("Correlation Cost vs Overall")
 print(corr)
@@ -280,6 +319,8 @@ for i in range(len(SalesvsOverall)):
 corr = corr / len(SalesvsOverall)
 
 correlations['Sales'] = corr
+correlationsOreogn['Sales'] = dfOregon2023SalesvsOverall['Rank_sal'].corr(dfOregon2023SalesvsOverall['Rank_ove'])
+correlationsOshkosh['Sales'] = dfOshkosh2023SalesvsOverall['Rank_sal'].corr(dfOshkosh2023SalesvsOverall['Rank_ove'])
 
 print("Correlation Sales vs Overall")
 print(corr)
@@ -287,16 +328,29 @@ print("")
 
 keys = list(correlations.keys())
 values = list(correlations.values())
+valuesOregon = list(correlationsOreogn.values())
+valuesOshkosh = list(correlationsOshkosh.values())
 
 fig, ax = plt.subplots(figsize=(12,6))
 
 ax.set_title('Correlation Between Placement in Event and Overall Placement')
 ax.set_xlabel('Event')
 ax.set_ylabel('Correlation')
-ax.bar(keys, values, color='#38761D')
+
+ind = np.arange(len(keys))
+
+ave = ax.bar(ind, values, color='#38761D', width=width)
+ore = ax.bar(ind+width, valuesOregon, color = 'red', width=width)
+osh = ax.bar(ind+width*2, valuesOshkosh, color = 'blue', width=width)
+
+ax.set_xticks(ind+width)
+ax.set_xticklabels(tuple(keys))
+ax.legend((ave[0],ore[0],osh[0]), ('Average','Oregon','Oshkosh'))
 
 for i in range(len(keys)):
-	ax.text(i-.125, values[i]+.005, round(values[i], 2), fontweight='bold')
+	ax.text(i-.095, values[i]+.005, round(values[i], 2), fontweight='bold', fontsize=6)
+	ax.text(i+.095, valuesOregon[i]+.005, round(valuesOregon[i], 2), fontweight='bold', fontsize=6)
+	ax.text(i+.295, valuesOshkosh[i]+.005, round(valuesOshkosh[i], 2), fontweight='bold', fontsize=6)
 
 avg3 = 0
 avg1 = 0
@@ -317,7 +371,6 @@ print("Average accel time of top 1: " + str(avg1))
 print("Average accel time of top 3: " + str(avg3))
 print("Accel Record: " + str(minTime))
 minTime -= 0.001
-
 
 plt.show()
 
