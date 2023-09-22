@@ -166,6 +166,22 @@ dfCalifornia2019SalesvsOverall = pd.merge(California2019SalesData, California201
 dfCalifornia2019ManeuvvsOverall = pd.merge(California2019ManeuvData, California2019OverallData, on = 'School', suffixes = ['_man', '_ove'], how = 'inner')
 
 
+dfOregon2023HillvsAccel = pd.merge(Oregon2023HillData, dfOregon2023AccelvsOverall, on = 'School', suffixes = ['_hil', '_acc'])
+dfCalifornia2019HillvsAccel = pd.merge(California2019HillData, dfCalifornia2019AccelvsOverall, on = 'School', suffixes = ['_hil', '_acc'])
+dfRochester2019HillvsAccel = pd.merge(California2019HillData, dfRochester2019AccelvsOverall, on = 'School', suffixes = ['_hil', '_acc'])
+
+dfOregon2023HillvsManeuv = pd.merge(Oregon2023HillData, dfOregon2023ManeuvvsOverall, on = 'School', suffixes = ['_hil', '_man'])
+dfCalifornia2019HillvsManeuv = pd.merge(California2019HillData, dfCalifornia2019ManeuvvsOverall, on = 'School', suffixes = ['_hil', '_man'])
+dfRochester2019HillvsManeuv = pd.merge(Rochester2019HillData, dfRochester2019ManeuvvsOverall, on = 'School', suffixes = ['_hil', '_man'])
+
+dfCalifornia2019HillvsSuspension = pd.merge(California2019HillData, dfCalifornia2019SuspensionvsOverall, on = 'School', suffixes = ['_hil', '_sus'])
+dfRochester2019HillvsSuspension = pd.merge(Rochester2019HillData, dfRochester2019SuspensionvsOverall, on = 'School', suffixes = ['_hil', '_sus'])
+
+dfOregon2023HillvsEndurance = pd.merge(Oregon2023HillData, dfOregon2023EndurancevsOverall, on = 'School', suffixes = ['_hil', '_end'])
+dfCalifornia2019HillvsEndurance = pd.merge(California2019HillData, dfCalifornia2019EndurancevsOverall, on = 'School', suffixes = ['_hil', '_end'])
+dfRochester2019HillvsEndurance = pd.merge(Rochester2019HillData, dfRochester2019EndurancevsOverall, on = 'School', suffixes = ['_hil', '_end'])
+
+
 AccelvsEndurance = [dfOregon2023AccelvsEndurance, dfOshkosh2023AccelvsEndurance, dfTennessee2022AccelvsEndurance, dfRochester2022AccelvsEndurance, dfArizona2022AccelvsEndurance, dfTennessee2019AccelvsEndurance, dfRochester2019AccelvsEndurance, dfCalifornia2019AccelvsEndurance]
 AccelvsOverall = [dfOregon2023AccelvsOverall, dfOshkosh2023AccelvsOverall, dfTennessee2022AccelvsOverall, dfRochester2022AccelvsOverall, dfArizona2022AccelvsOverall, dfTennessee2019AccelvsOverall, dfRochester2019AccelvsOverall, dfCalifornia2019AccelvsOverall]
 EndurancevsOverall = [dfOregon2023EndurancevsOverall, dfOshkosh2023EndurancevsOverall, dfTennessee2022EndurancevsOverall, dfRochester2022EndurancevsOverall, dfArizona2022EndurancevsOverall, dfTennessee2019EndurancevsOverall, dfRochester2019EndurancevsOverall, dfCalifornia2019EndurancevsOverall]
@@ -326,6 +342,35 @@ print("Correlation Sales vs Overall")
 print(corr)
 print("")
 
+avgHillvsAccelcorr = 0
+avgHillvsAccelcorr += dfOregon2023HillvsAccel['Rank_acc'].corr(dfOregon2023HillvsAccel['Rank'])
+avgHillvsAccelcorr += dfCalifornia2019HillvsAccel['Rank_acc'].corr(dfCalifornia2019HillvsAccel['Rank'])
+avgHillvsAccelcorr += dfRochester2019HillvsAccel['Rank_acc'].corr(dfRochester2019HillvsAccel['Rank'])
+avgHillvsAccelcorr /= 3
+
+avgHillvsManeuvcorr = 0
+avgHillvsManeuvcorr += dfOregon2023HillvsManeuv['Rank_man'].corr(dfOregon2023HillvsManeuv['Rank'])
+avgHillvsManeuvcorr += dfCalifornia2019HillvsManeuv['Rank_man'].corr(dfCalifornia2019HillvsManeuv['Rank'])
+avgHillvsManeuvcorr += dfRochester2019HillvsManeuv['Rank_man'].corr(dfRochester2019HillvsManeuv['Rank'])
+avgHillvsManeuvcorr /= 3
+
+avgHillvsSuscorr = 0
+avgHillvsSuscorr += dfCalifornia2019HillvsSuspension['Rank_sus'].corr(dfCalifornia2019HillvsSuspension['Rank'])
+avgHillvsSuscorr += dfRochester2019HillvsSuspension['Rank_sus'].corr(dfRochester2019HillvsSuspension['Rank'])
+avgHillvsSuscorr /= 2
+
+avgHillvsEndurancecorr = 0
+avgHillvsEndurancecorr += dfOregon2023HillvsEndurance['Rank_end'].corr(dfOregon2023HillvsEndurance['Rank'])
+avgHillvsEndurancecorr += dfCalifornia2019HillvsEndurance['Rank_end'].corr(dfCalifornia2019HillvsEndurance['Rank'])
+avgHillvsEndurancecorr += dfRochester2019HillvsEndurance['Rank_end'].corr(dfRochester2019HillvsEndurance['Rank'])
+avgHillvsEndurancecorr /= 3
+
+print("Average Correlation Hill vs Accel: " + str(round(avgHillvsAccelcorr, 2)))
+print("Average Correlation Hill vs Maneuv: " + str(round(avgHillvsManeuvcorr, 2)))
+print("Average Correlation Hill vs Suspension: " + str(round(avgHillvsSuscorr, 2)))
+print("Average Correlation Hill vs Endurance: " + str(round(avgHillvsEndurancecorr, 2)))
+print("")
+
 keys = list(correlations.keys())
 values = list(correlations.values())
 valuesOregon = list(correlationsOreogn.values())
@@ -373,11 +418,3 @@ print("Accel Record: " + str(minTime))
 minTime -= 0.001
 
 plt.show()
-
-#print(dfOregon2023AccelvsEndurance['Rank_acc'].corr(dfOregon2023AccelvsEndurance['Rank_end']))
-#print("")
-#print(dfOregon2023AccelvsOverall['Rank_acc'].corr(dfOregon2023AccelvsOverall['Rank_ove']))
-#print("")
-#print(dfOregon2023EndurancevsOverall['Rank_end'].corr(dfOregon2023EndurancevsOverall['Rank_ove']))
-#print("")
-#print(dfOregon2023DesignvsOverall['Rank_des'].corr(dfOregon2023DesignvsOverall['Rank_ove']))
